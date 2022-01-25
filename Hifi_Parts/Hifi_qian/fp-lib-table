@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name NewLibCool)(type KiCad)(uri D:\software\KICAD\NewLibcool.pretty-master\NewLibCool.pretty)(options "")(descr ""))
+)

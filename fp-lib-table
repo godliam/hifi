@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name NewLibCool)(type KiCad)(uri D:\software\KICAD\NewLibcool.pretty-master\NewLibCool.pretty)(options "")(descr ""))
+  (lib (name Capacitors_SMD)(type KiCad)(uri "$(KISYSMOD)\\Capacitors_SMD.pretty")(options "")(descr ""))
+  (lib (name Housings_SOIC)(type KiCad)(uri "$(KISYSMOD)\\Housings_SOIC.pretty")(options "")(descr ""))
+  (lib (name Housings_DIP)(type KiCad)(uri "$(KISYSMOD)\\Housings_DIP.pretty")(options "")(descr ""))
+  (lib (name Resistors_ThroughHole)(type KiCad)(uri "$(KISYSMOD)\\Resistors_ThroughHole.pretty")(options "")(descr ""))
+  (lib (name Connect)(type KiCad)(uri "$(KISYSMOD)\\Connect.pretty")(options "")(descr ""))
+  (lib (name Diodes_SMD)(type KiCad)(uri "$(KISYSMOD)\\Diodes_SMD.pretty")(options "")(descr ""))
+  (lib (name LEDs)(type KiCad)(uri "$(KISYSMOD)\\LEDs.pretty")(options "")(descr ""))
+  (lib (name Resistors_SMD)(type KiCad)(uri "$(KISYSMOD)\\Resistors_SMD.pretty")(options "")(descr ""))
+  (lib (name Capacitors_ThroughHole)(type KiCad)(uri "$(KISYSMOD)\\Capacitors_ThroughHole.pretty")(options "")(descr ""))
+)
