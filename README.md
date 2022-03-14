@@ -11,3 +11,6 @@ Forked from: [hack-apollo](https://github.com/hack-apollo)
     - 修正了后面板左右声道标志，重新生成后面板Geber
 
 By: godliam 2022.01.25
+
+## License
+Hack Audio Spectrum is a free download and may be used, modified, evaluated and distributed without charge provided the user adheres to version three of the GNU General Public License (GPL) and does not remove the copyright notice or this text. The GPL V3 text is available on the gnu.org web site.
